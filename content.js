@@ -1,3 +1,4 @@
+alert('hidden!');
 while True {const newTitle = "Classes";
 
 if (document.title != newTitle) {
