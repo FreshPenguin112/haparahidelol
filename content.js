@@ -1,5 +1,5 @@
 alert('hidden!');
-while True {const newTitle = "Classes";
+while true {const newTitle = "Classes";
 
 if (document.title != newTitle) {
     document.title = newTitle;
